@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-    <img src="examples/fluid.gif" width="512" height="512"/>
+    <img src="examples/fluid.gif" width="360" height="360"/>
 </p>
 
 ## How to run the code?
