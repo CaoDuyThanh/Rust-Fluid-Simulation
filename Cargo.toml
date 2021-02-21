@@ -1,0 +1,10 @@
+[package]
+name = "Rust-Fluid-Simulation"
+version = "0.1.0"
+authors = ["Thanh Cao <caoduythanhcantho@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+olc_pixel_game_engine = "0.5.0"
